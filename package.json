@@ -1,14 +1,14 @@
 {
-  "name": "ISLAMICK BOT",
+  "name": "FARHAN BOT",
   "version": "10.1.1",
-  "description": "made by 𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_☢️",
+  "description": "made by 𝙵𝙰𝚁𝙷𝙰𝙽☢️_𖣘 -𝙱𝙾𝚃 ☆彡 ⚠️",
   "main": "Cyber.js",
   "engines": {
       "node": "20.x",
       "npm": "10.0.0"
   },
   "scripts": {
-      "start": "node Ullash.js",
+      "start": "node Farhan.js",
       "login": "node login",
       "test": "node --trace-warnings --use_strict --async-stack-traces mirai"
   },
@@ -23,11 +23,11 @@
       "messenger",
       "javasvript",
       "ullash",
-      "cyberullash",
-      "cyberRajib ",
+      "cyberfarhan",
+      "cyberFarhan ",
       "islamick chat bot"
   ],
-  "author": "Ullash ッ",
+  "author": "Farhan ッ",
   "license": "GPL-3.0",
   "bugs": {
       "url": "https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/issues"
